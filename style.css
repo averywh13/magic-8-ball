@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(59, 59, 59);
+    font-family: 'Silkscreen', sans-serif;
+    color: white;
+}
+.eightball{
+    width: 500px;
+    height: 500px;
+}
